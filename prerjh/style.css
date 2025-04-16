@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(197, 150, 92);
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+#container{
+    background-color: aliceblue;
+
+}
+
+#relogio{
+    font-size: 10rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
